@@ -191,7 +191,7 @@ type LongHand = {
 type ShortHand = (a: number) => number;
 ```
 
-参考: [関数の宣言](https://typescript-jp.gitbook.io/deep-dive/type-system/functions#no)
+  参考: [関数の宣言](https://typescript-jp.gitbook.io/deep-dive/type-system/functions#no)
 
 ## 最後に
 
